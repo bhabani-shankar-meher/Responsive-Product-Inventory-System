@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CONTACTUS PAGE SNAPSHOT ContactUs Page Snapshot Executed Successfully 1`] = `
+<div
+  className="MuiBox-root css-1mo2yih"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container css-qwfiov-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-1idn90j-MuiGrid-root"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-h4 css-149xwtl-MuiTypography-root"
+      >
+        Contact Us
+      </h4>
+      <hr
+        className="MuiDivider-root MuiDivider-fullWidth css-1dh14ht-MuiDivider-root"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-1idn90j-MuiGrid-root"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-1kgxqm0-MuiTypography-root"
+      >
+        If you have or issue or query please write mail to us 
+        <a
+          href="mailto:bhabani.meher@wipro.com"
+        >
+          bhabani.meher@wipro.com
+        </a>
+      </h6>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-1idn90j-MuiGrid-root"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-1kgxqm0-MuiTypography-root"
+      >
+        Or you can reach out to us by dialing 
+        <a
+          href="#"
+        >
+          7606044523
+        </a>
+      </h6>
+    </div>
+  </div>
+</div>
+`;

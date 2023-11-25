@@ -1,0 +1,14 @@
+{
+  "login": [
+    {
+      "emailID": "bhabani.meher@wipro.com",
+      "password": "bhabani001",
+      "againPassword": "bhabani001",
+      "firstName": "Bhabani",
+      "lastName": "Meher",
+      "location": "Bargarh",
+      "mobile": "7606044523",
+      "id": "bhabani.meher@wipro.com"
+    }
+  ]
+}

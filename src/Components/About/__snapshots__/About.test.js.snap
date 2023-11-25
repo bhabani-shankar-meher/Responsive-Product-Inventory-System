@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ABOUT PAGE SNAPSHOT About Page Snapshot Executed Successfully 1`] = `
+<div
+  className="MuiBox-root css-1mo2yih"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container css-qwfiov-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-1idn90j-MuiGrid-root"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-h4 css-149xwtl-MuiTypography-root"
+      >
+        PRODUCT INVENTORY
+      </h4>
+      <hr
+        className="MuiDivider-root MuiDivider-fullWidth css-1dh14ht-MuiDivider-root"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-1idn90j-MuiGrid-root"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-1kgxqm0-MuiTypography-root"
+      >
+        Product Inventory System is React CAPSTONE Project developed with functional components.
+      </h6>
+    </div>
+  </div>
+</div>
+`;

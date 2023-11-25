@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NOTLOGGEDINPAGE SNAPSHOT NotLoggedInPage Snapshot Executed Successfully 1`] = `
+<div
+  className="MuiBox-root css-1ahqaq8"
+  style={
+    Object {
+      "marginLeft": "15%",
+    }
+  }
+>
+  <div
+    className="MuiGrid-root MuiGrid-container css-qwfiov-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-1idn90j-MuiGrid-root"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-h4 css-149xwtl-MuiTypography-root"
+      >
+        Not Logged In
+      </h4>
+      <hr
+        className="MuiDivider-root MuiDivider-fullWidth css-1dh14ht-MuiDivider-root"
+      />
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-1kgxqm0-MuiTypography-root"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-2l8bkx-MuiGrid-root"
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <button
+        className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "width": "10rem",
+          }
+        }
+        tabIndex={0}
+        type="button"
+      >
+        Login
+      </button>
+      <button
+        className="MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root  css-wnpvqa-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "marginLeft": "2rem",
+            "width": "10rem",
+          }
+        }
+        tabIndex={0}
+        type="button"
+      >
+        Signup
+      </button>
+    </div>
+  </div>
+</div>
+`;

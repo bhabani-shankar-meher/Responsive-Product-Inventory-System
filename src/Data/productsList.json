@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "productName": "LENOVO LAPTOP",
+      "quantity": 102,
+      "price": "60000",
+      "id": "620acd3c-7ee6-422d-9b5e-51b1b817e829",
+      "noOfClicked": 11,
+      "createdDate": "05/08/2022, 11:26:35",
+      "updatedDate": "Not Update Yet"
+    },
+    {
+      "productName": "EPSON PRINTER",
+      "quantity": 409,
+      "price": "12000",
+      "id": "fa4fc3b9-a107-4b26-8114-515e0fdb35b1",
+      "noOfClicked": 1,
+      "createdDate": "05/08/2022, 15:16:23",
+      "updatedDate": "Not Update Yet"
+    },
+    {
+      "productName": "POCO M3",
+      "quantity": 45,
+      "price": "11000",
+      "id": "545c542f-9885-4337-9407-436e15e2fe28",
+      "noOfClicked": 2,
+      "createdDate": "05/08/2022, 15:17:00",
+      "updatedDate": "Not Update Yet"
+    },
+    {
+      "productName": "DELL LAPTOP",
+      "quantity": 14,
+      "price": "45000",
+      "id": "23362bcb-a520-4b1b-9644-035db409174a",
+      "noOfClicked": 2,
+      "createdDate": "05/08/2022, 15:17:40",
+      "updatedDate": "Not Update Yet"
+    },
+    {
+      "productName": "REDMI MOBILE",
+      "quantity": 13,
+      "price": "25000",
+      "id": "466091f7-291e-4ddf-970f-4d39f849293f",
+      "noOfClicked": 3,
+      "createdDate": "05/08/2022, 15:18:13",
+      "updatedDate": "Not Update Yet"
+    },
+    {
+      "productName": "MI POWERBANK",
+      "quantity": 65,
+      "price": "2000",
+      "id": "d31f1854-2139-4d36-a688-dac1038a9fe3",
+      "noOfClicked": 3,
+      "createdDate": "05/08/2022, 15:19:02",
+      "updatedDate": "Not Update Yet"
+    },
+    {
+      "productName": "HP LAPTOP",
+      "quantity": 10,
+      "price": "69000",
+      "id": "8e23aa12-e047-4652-b7ca-ce907d7b3b89",
+      "noOfClicked": 3,
+      "createdDate": "05/08/2022, 15:20:01",
+      "updatedDate": "Not Update Yet"
+    },
+    {
+      "productName": "BOAT HEADPHONE",
+      "quantity": 104,
+      "price": "2500",
+      "id": "a974e368-8a14-4592-9170-f5a5201a78c9",
+      "noOfClicked": 1,
+      "createdDate": "05/08/2022, 15:20:54",
+      "updatedDate": "05/08/2022, 15:23:24"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+.avatar_container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    margin-left: var(--margin-sm);
+    z-index: -1;
+}
+
+.avatar_container::before {
+    width: 1px;
+    height: 1.5rem;
+    background: #dfdfdf;
+    margin-right: var(--margin-xs);
+}
+
+.avatar_container .menu {
+    position: absolute;
+    bottom: -0.5rem;
+    right: 0.5rem;
+    transform: translateY(120%);
+    background: white;
+    padding: var(--padding-xs) var(--padding-lg) var(--padding-xs) var(--padding-xs);
+    border-radius: 5px;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.24);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.24);
+    opacity: 0;
+    pointer-events: none;
+    transition: all ease-in-out 0.3s;
+}
+
+.avatar_container .menu .info {
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid gainsboro;
+}
+
+.avatar_container .menu .info .name {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.avatar_container .menu .info .role {
+    font-weight: 400;
+    font-size: 0.7rem;
+    color: #5c5c5c;
+}
+
+.avatar_container .menu .settings {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 0.8rem;
+}
+
+.avatar_container .menu .settings a {
+    text-decoration: none;
+    color: rgba(85, 79, 232, 1);
+    font-size: 0.9rem;
+}
+
+.avatar_container .menu .settings a:hover {
+    text-decoration: underline;
+}
+
+.avatar_container .menu_active {
+    display: block;
+    pointer-events: initial;
+    opacity: 1;
+    transform: translateY(100%);
+}
+
+.icon_avatar_container {
+    width: 2.2rem;
+    height: 2.2rem;
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
+
+.icon_avatar_container svg {
+    transform: translateX(2px);
+}
+
+.name {
+    display: flex;
+    align-items: center;
+    gap: 0.1rem;
+    cursor: pointer;
+}
+
+.name span {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #475569;
+}
+
+@media screen and (max-width: 360px) {
+    .name span {
+        display: none;
+    }
+}
+
+.name svg {
+    color: #8d8c8c;
+    font-size: 1.3rem;
+}

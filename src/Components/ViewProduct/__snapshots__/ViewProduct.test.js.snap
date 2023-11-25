@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VIEWPRODUCT PAGE SNAPSHOT ViewProduct Page Snapshot Executed Successfully 1`] = `
+<div
+  className="MuiBox-root css-15gx3v1"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-13i4rnv-MuiGrid-root"
+    style={
+      Object {
+        "background": "white",
+        "boxShadow": "5px 5px 15px -1px rgb(0 0 0 / 22%)",
+        "marginTop": "2rem",
+      }
+    }
+  >
+    <ul
+      className="MuiList-root MuiList-padding css-1lbrbe2-MuiList-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-vkfc0g-MuiGrid-root"
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "center",
+          "paddingBottom": "2rem",
+        }
+      }
+    >
+      <button
+        className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "width": "10rem",
+          }
+        }
+        tabIndex={0}
+        type="button"
+      >
+        Update
+      </button>
+      <button
+        className="MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root  css-wnpvqa-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "marginLeft": "2rem",
+            "width": "10rem",
+          }
+        }
+        tabIndex={0}
+        type="button"
+      >
+        Back
+      </button>
+    </div>
+  </div>
+</div>
+`;
